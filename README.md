@@ -1,4 +1,4 @@
-# Simple-Control-Version Readme
+# Simple-Version-Control Readme
 'Installing' the script:
   1. Script sgit.py must be put in Python's script folder, e.g.
     C:\Users\UserName\AppData\Local\Programs\Python\Python36-32\Scripts (depending on your system)
